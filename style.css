@@ -13,3 +13,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
   width: 180px;
   height: 180px;
 }
+
+.xfa-staff-name {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.xfa-staff-role {
+  font-style: italic;
+  font-size: 0.85rem;
+}
